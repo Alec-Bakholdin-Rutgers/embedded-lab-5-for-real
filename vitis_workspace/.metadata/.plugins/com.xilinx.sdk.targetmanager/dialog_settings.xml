@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="lab5_system-bitFile" value="${project_loc:lab5}/_ide/bitstream/lab4_system_wrapper.bit"/>
+	<item key="lab5_system-bmmFile" value="${project_loc:lab5}/_ide/bitstream/lab4_system_wrapper.mmi"/>
+	<item key="lab5_system-target" value="Local"/>
+	<item key="lab5_system-device" value="Auto Detect"/>
+	<item key="lab5_system-partial_bit" value="false"/>
+	<item key="lab5_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="lab5_system"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Zybo 210279A7924BA&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Zybo-210279A7924BA-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-Zybo-210279A7924BA-13722093-0&quot;}}]}"/>
+</section>
